@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Brawl Stars</title>
+		</head>
+		<body>
+			<h1>Brawl</h1>
+			<hr/>
+			<h1>Sobre</h1>
+			<p>Batalhas 3x3 agitadas e batalha de último sobrevivente feitas para celular! Jogue com seus amigos ou sozinho em inúmeros modos de jogo em menos de três minutos.
+
+			Desbloqueie e melhore vários Brawlers com habilidades Super, poderes de estrela e acessórios. Colecione visuais únicos para se destacar e tirar onda. Lute em ambientes variados dentro do universo Brawl!</p>
+			<h1>Mapas</h1>		
+			<ol>
+				<li>Pique-gema (3x3): forme um grupo e use estratégias eficientes contra a equipe adversária. Colete e mantenha dez gemas para vencer. Se for nocauteado, você perde as suas gemas!</li>
+				<li>Combate (Sozinho/Em dupla): uma batalha de sobrevivência no estilo ""todos contra todos"". Não se esqueça de coletar tônicos para o seu Brawler. Com um amigo ou sozinho, seja o último Brawler a triunfar na batalha pela sobrevivência mais caótica que existe! O vencedor leva tudo!</li>
+				<li>Fute-brawl (3x3): um jogo de ""Brawl-a"" completamente diferente! Tire onda com suas habilidades no futebol para marcar dois gols antes do outro time. Aproveite, pois aqui não tem cartão vermelho!</li>
+				<li>Caça-estrelas (3x3): derrote os adversários para ganhar estrelas, mas não deixe que eles peguem você! A equipe com mais estrelas é a vencedora!</li>
+				<li>Roubo (3x3): proteja o cofre do seu time e tente abrir o do seu adversário. Explore o mapa para se infiltrar, detonar tudo e abrir caminho até o tesouro do inimigo.</li>
+			</ol>
+			<a href="mapa.html">saiba mais</a>
+			<br/>
+			<h1>Personagens</h1>
+			<p>Colecione e melhore vários Brawlers com habilidades Super, poderes de estrela e acessórios. Aumente o nível dos Brawlers e colecione visuais únicos.</p>
+			<a href="personagens.html">Saiba Mais</a>
+		</body>
+	</html>
